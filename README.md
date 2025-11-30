@@ -14,7 +14,7 @@ Before running this application, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mofurqon/retreat-venue.git
+   git clone git@github.com:furqonbaskit/retreat-venue.git
    cd retreat-venue
    ```
 

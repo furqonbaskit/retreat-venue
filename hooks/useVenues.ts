@@ -1,5 +1,5 @@
 import { useState, useCallback } from "react";
-import { Venue } from "../app/generated/prisma/client";
+import { Venue } from "@prisma/client";
 
 interface FetchVenuesParams {
   page?: number;
