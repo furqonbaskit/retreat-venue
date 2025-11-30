@@ -5,7 +5,7 @@ import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import BookingFormModal from "../../components/modal/BookingFormModal";
 import { useVenues } from "../../hooks/useVenues";
-import { Venue } from "../generated/prisma/client";
+import { Venue } from "@prisma/client";
 import { usePagination } from "../../hooks/usePagination";
 import { useFetch } from "../../hooks/useFetch";
 import { useDebounce } from "../../hooks/useDebounce";
