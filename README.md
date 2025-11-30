@@ -61,7 +61,7 @@ Before running this application, ensure you have the following installed:
    pnpm dev
    ```
 
-2. **Open your browser** and navigate to [http://localhost:3000](http://localhost:3000). or you can access from deployed application [Vercel App](https://retreat-venue-qg4j-6f5e9s5y1-furqons-projects-6ed3672f.vercel.app/)
+2. **Open your browser** and navigate to [http://localhost:3000](http://localhost:3000). or you can access from deployed application [Vercel App](https://retreat-venue-qg4j.vercel.app/)
 
 3. **Explore the app**:
    - Visit `/venue` to browse and filter venues.
